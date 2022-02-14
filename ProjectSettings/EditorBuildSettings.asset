@@ -4,7 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WelcomeSpace.unity
+    guid: 94bcad562269ab84499758c579423a7e
+  - enabled: 1
+    path: Assets/Scenes/VistaGeneral.unity
+    guid: 6b54770d98d306f4f92e7e83d58f0880
+  - enabled: 1
+    path: Assets/Scenes/VistaDeSala.unity
+    guid: e4f6c3652130df44daadb8ab56918622
+  - enabled: 1
+    path: Assets/Scenes/VistaDeChico.unity
+    guid: a678329d464b08f4095b09558c08e350
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d7837ceec513b1849a15a315ed06c717, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a106ef26de1c7d345a45f52107907462, type: 2}

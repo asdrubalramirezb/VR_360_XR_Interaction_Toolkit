@@ -17,14 +17,5 @@ public class controlScenas : MonoBehaviour
             SceneManager.LoadScene("VistaDeChico");
         }
     }
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
